@@ -1,0 +1,13 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+body{
+    position: relative;
+}
+.div{
+    width: 10px;
+    height: 10px;
+    background: red ;
+    border-radius: 50%;
+}
